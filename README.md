@@ -1,0 +1,1 @@
+Simple Inheritance example used at [CodeGym](https://codegym.vn)
